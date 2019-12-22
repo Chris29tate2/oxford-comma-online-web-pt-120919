@@ -1,3 +1,3 @@
 def oxford comma
 array = []
-[hippo, giraffe, horse.split]
+[hippo, giraffe, horse].split
