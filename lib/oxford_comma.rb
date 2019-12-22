@@ -1,3 +1,3 @@
 def oxford comma
-"Kiwi.Duran,starfruit"
+array = "Kiwi.Duran,starfruit"
 end
