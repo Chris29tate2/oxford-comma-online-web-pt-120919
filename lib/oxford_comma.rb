@@ -1,3 +1,4 @@
 def oxford comma
-array = "Kiwi.Duran,starfruit"
+array = "Kiwi.Duran,starfruit".split(",")
+
 end
