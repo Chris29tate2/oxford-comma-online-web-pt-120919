@@ -1,4 +1,4 @@
 def oxford comma
 array = ""
-"Kiwi.Duran"
+"Kiwi.Duran,starfruit"
 end
