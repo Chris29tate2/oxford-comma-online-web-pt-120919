@@ -1,4 +1,4 @@
 def oxford comma
 array = ""
-"Kiwi.Duran".split
+"Kiwi.Duran".length
 end
